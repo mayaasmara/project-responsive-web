@@ -1,1 +1,1 @@
-# project-responsive-web
+# This is a project for responsive web design
