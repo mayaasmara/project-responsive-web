@@ -354,6 +354,12 @@ textarea {
     border-radius: 5px;
     margin: 2px;
   }
+  .article-card h1 {
+    font-size: 22px;
+  }
+  .article-card p {
+    font-size: 14px;
+  }
   .more-articles img {
     width: 30px;
   }
